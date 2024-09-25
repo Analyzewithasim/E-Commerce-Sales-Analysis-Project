@@ -1,10 +1,8 @@
 # 🚀 E-Commerce Sales Analysis Project 📊 | **Power BI Dashboard**
 
-<video width="720" height="480" controls>
-  <source src="https://raw.githubusercontent.com/Analyzewithasim/E-Commerce-Sales-Analysis-Project/main/E-COMMERCE%20PROJECT.mp4" type="video/mp4">
-</video>
-
 Welcome to my **E-Commerce Sales Analysis Project** where I used **Power BI** to transform raw data into actionable insights for business decision-making. In this project, I analyzed over **50,000 rows** of data, covering various aspects like sales, markets, shipping methods, and geographic performance. 🌍
+
+![Alt Text](https://github.com/Analyzewithasim/E-Commerce-Sales-Analysis-Project/blob/main/E-COMMERCEPROJECT.gif)
 
 ## 🔍 **Project Overview**:
 - **Data Source**: Excel Workbook containing **24 columns**, including orders, customer info, product categories, shipping modes, and regional data.
