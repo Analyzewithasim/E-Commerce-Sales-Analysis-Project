@@ -29,7 +29,7 @@ Welcome to my **E-Commerce Sales Analysis Project** where I used **Power BI** to
 
 - **United States** leads in sales with **$2.3M** 💵.
 - **Top 3 States**: England 🇬🇧, California 🇺🇸, Île-de-France 🇫🇷.
-- 
+  
 
 ## 📈 **Key Performance Indicators (KPIs)**:
 Here's an overview of the **core metrics** driving business performance:
