@@ -9,19 +9,13 @@ Welcome to my **E-Commerce Sales Analysis Project** where I used **Power BI** to
 
 1. ### **Sales by Category** (Stacked Column Chart) 💻📦
    - **Technology** category leads with **$4.7M** in sales. Analyzed across **3 categories** for a comprehensive breakdown.
-   
-   ![Stacked Column Chart]([path_to_image_or_visualization](https://github.com/Analyzewithasim/E-Commerce-Sales-Analysis-Project/blob/main/Stacked%20Column%20Chart.png))
 
 2. ### **Sales by Market** (Pie Chart) 🌎🍰
    - **APAC** emerges as the top market with **$3.39M** in sales, visualized across **7 markets**.
    
-   ![Pie Chart](path_to_image_or_visualization)
-
 3. ### **Sales by Shipping Method** (Funnel Chart) 🚚📦
    - **Standard Shipping** mode contributed the most with **$7.58M** in sales. Analyzed across **4 unique shipping modes**.
    
-   ![Funnel Chart](path_to_image_or_visualization)
-
 ## 🌍 **Geographic Insights**:
 
 - Distinct analysis on:
@@ -31,8 +25,7 @@ Welcome to my **E-Commerce Sales Analysis Project** where I used **Power BI** to
 
 - **United States** leads in sales with **$2.3M** 💵.
 - **Top 3 States**: England 🇬🇧, California 🇺🇸, Île-de-France 🇫🇷.
-
-  ![Donut Chart](path_to_image_or_visualization)
+- 
 
 ## 📈 **Key Performance Indicators (KPIs)**:
 Here's an overview of the **core metrics** driving business performance:
@@ -44,13 +37,13 @@ Here's an overview of the **core metrics** driving business performance:
 | 📦 **Total Quantity Sold**| 178K        |
 | 🚚 **Total Shipping Cost**| $1.35M      |
 
-![KPI Dashboard](path_to_image_or_visualization)
 
 ## 🎯 **Interactive Features**:
 - I incorporated **dynamic slicers** for **Category** and **Market** filtering, providing real-time data exploration for business users. 🎛️
 
 ## 🚀 **How to Run the Project**:
-1. Download the project file [here](link_to_project_file).
+1. Download the dataeset[here](https://github.com/Analyzewithasim/E-Commerce-Sales-Analysis-Project/blob/main/ECOMM%20DATA.xlsx).
+1. Download the project file [here](https://github.com/Analyzewithasim/E-Commerce-Sales-Analysis-Project/blob/main/E-Commerce%20Project.pbix).
 2. Open the **Power BI Desktop** and load the **PBIX** file.
 3. Explore the **interactive dashboards**, use the **slicers**, and gain insights by interacting with the visualizations.
 
@@ -67,8 +60,8 @@ Through this project, I gained deeper experience in:
 Feel free to check out the project files and let me know if you have any feedback or questions! 🎉
 
 ## 📂 **Repository Contents**:
-- **E-Commerce-Sales-Analysis.pbix** – Power BI file
-- **E-Commerce-Sales-Data.xlsx** – Source data
+- **E-Commerce Project.pbix** – Power BI file
+- **ECOMM DATA.xlsx** – Source data
 
 ---
 
