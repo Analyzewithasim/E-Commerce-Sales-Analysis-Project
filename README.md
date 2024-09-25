@@ -10,7 +10,7 @@ Welcome to my **E-Commerce Sales Analysis Project** where I used **Power BI** to
 1. ### **Sales by Category** (Stacked Column Chart) 💻📦
    - **Technology** category leads with **$4.7M** in sales. Analyzed across **3 categories** for a comprehensive breakdown.
    
-   ![Stacked Column Chart](path_to_image_or_visualization)
+   ![Stacked Column Chart]([path_to_image_or_visualization](https://github.com/Analyzewithasim/E-Commerce-Sales-Analysis-Project/blob/main/Stacked%20Column%20Chart.png))
 
 2. ### **Sales by Market** (Pie Chart) 🌎🍰
    - **APAC** emerges as the top market with **$3.39M** in sales, visualized across **7 markets**.
